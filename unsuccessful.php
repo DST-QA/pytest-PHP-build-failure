@@ -1,1 +1,2 @@
-// This is an unsuccessful PHP build file
+<?php
+/* This is an unsuccessful PHP build file */
